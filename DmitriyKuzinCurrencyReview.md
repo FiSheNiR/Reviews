@@ -1,3 +1,5 @@
+https://github.com/FiSheNiR/Reviews/blob/main/DmitriyKuzinCurrencyReview.md
+
 деплой: http://31.40.61.92:8080/
 гит: https://github.com/Exelent26/Currencies_Exchange
 [Дмитрий Кузин]
